@@ -25,6 +25,7 @@ input{
     width: 85px;
     height: 60px;
     font-size: 30px;
+    margin: 4px;
 }
 .btn:hover{
     background-color: red;
@@ -33,9 +34,10 @@ input{
 #display{
     width:60%;
     height: 40%;
-    font-size: 30px;
+    font-size: 25px;
     padding: 7px 7px 7px 7px;
-    text-align: center;
+    text-align: right;
+    padding-right: 4%;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
 }
